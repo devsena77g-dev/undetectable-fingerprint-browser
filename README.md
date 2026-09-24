@@ -115,9 +115,7 @@ chrome.exe --user-data-dir=data1 --itbrowser="D:\Program Files\chrome\1.json" --
 ```
 
 
-# build the project from source
-git clone https://github.com/itbrowser-net/undetectable-fingerprint-browser.git
-merge the code with chromium source code.
+# build the project from source and merge the code with chromium source code.
 
 ---
 
@@ -132,12 +130,6 @@ The authors are not liable for any misuse of this software.
 
 ## 📫 Contact Us
 
-- Feel free to open an issue on GitHub for questions or feature requests.  
-- For enterprise-level support or custom development, contact us via email:  
-  **`javaflashproject@gmail.com`**
-- [https://discord.gg/AhW2RaHCs6](https://discord.gg/AhW2RaHCs6)
----
-
-> ⭐ If you find this project useful, please give us a star on GitHub! If you think it's worth starting, please star it to avoid forgetting. I will gradually upload the project source code.
+- Feel free to open an issue on GitHub for questions or feature requests. 
 
 ---
