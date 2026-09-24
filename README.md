@@ -1,7 +1,6 @@
 
 # 🕵️‍♂️ Undetectable Fingerprint Browser  
 
-[中文介绍](https://github.com/itbrowser-net/undetectable-fingerprint-browser/blob/main/README_zh.md)
 
 **Open Source · Modular · Programmable Anti-Detection Browser**
 
